@@ -4,6 +4,7 @@
 # In[7]:
 
 #Team members: Rebecca, Crystal, Rosa
+#sometimes, you need to run it multiple times but it should work - for some reason it occasionally gives an error when you wait too long to input a variable but this is only if it's run on Programiz
 
 getWord = input("Player 1 - Please enter in a word: ")
 getGuesses = input ("Player 1 - Please enter a number of guesses: ")
