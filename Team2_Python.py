@@ -3,6 +3,7 @@
 
 # In[7]:
 
+#Team members: Rebecca, Crystal, Rosa
 
 getWord = input("Player 1 - Please enter in a word: ")
 getGuesses = input ("Player 1 - Please enter a number of guesses: ")
@@ -54,8 +55,6 @@ if guessesLeft == 0:
     print("Player 2 You Lose!")
 else:
     print("Player 2 You Win!")
-
-#print("You Lose")
 
 
 # In[ ]:
